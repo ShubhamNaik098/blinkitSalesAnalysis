@@ -34,10 +34,14 @@ over a 12-month period, offering a clear view of sales trends, customer behavior
 - **Microsoft Excel** – for data cleaning, pivot analysis, and charting.  
 - **Power BI** *(optional)* – for dynamic dashboarding and geospatial mapping.  
 - **Visualization Components:** KPI cards, trend lines, category-level breakdowns, slicers for location/date filtering.
+- 
 
 ### 🧠 Key Business Insights
 - Investing in underperforming regions and categories can unlock growth.
 - Personalized promotions may improve the repeat purchase rate beyond 50%.
 - Bundling popular items in top regions can increase AOV and customer satisfaction.
 
-Feel free to customize the figures based on the exact data you have. If you'd like help *automating* this summary directly from Excel or Power BI outputs, let me know!
+###  Sample Visuals
+
+
+<img width="1496" height="788" alt="Blinkit" src="https://github.com/user-attachments/assets/d1cf5d9f-c535-4639-bcde-5a5f392365f5" />
