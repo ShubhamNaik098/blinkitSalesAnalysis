@@ -1,5 +1,3 @@
-Certainly! Here's a **detailed, professional summary** you can include in your GitHub README based on the BlinkIT Grocery Sales dataset and typical KPI analysis:
-
 ## 📊 Detailed Sales Analysis Summary – BlinkIT Grocery Sales Dataset
 
 This project presents a comprehensive analysis of BlinkIT's grocery sales using Excel.The dataset captures transactional and customer insights 
